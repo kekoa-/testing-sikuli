@@ -1,0 +1,7 @@
+click("1419874786001.png")
+wait(3)
+wheel(WHEEL_DOWN,3)
+click("1419874872214.png")
+type("22")
+wheel(WHEEL_DOWN,20)
+click("1419874897051.png")

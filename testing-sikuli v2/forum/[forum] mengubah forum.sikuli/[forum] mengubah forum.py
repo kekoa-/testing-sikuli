@@ -1,0 +1,5 @@
+click(Pattern("1419873065080.png").exact())
+wait(3)
+click("1419872969290.png")
+type("A")
+click("1419873088533.png")

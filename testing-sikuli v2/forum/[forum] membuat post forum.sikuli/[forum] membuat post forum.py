@@ -1,0 +1,8 @@
+click("1419872391890.png")
+wait(3)
+click("1419872413038.png")
+type("lala")
+click("1419872419710.png")
+wait(3)
+wheel(WHEEL_DOWN,10)
+assert exists("1419872469286.png")
